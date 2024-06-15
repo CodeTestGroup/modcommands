@@ -9,4 +9,6 @@ const commands = {
   '/help': 'This command will be coming soon! Please do /commands for the list of avaliable commands!',
   '/timetable': 'This command will be coming soon! Please do /commands for the list of avaliable commands!',
   '/commands': 'Available commands: /welcome /report /ping /guidelines /game /homework /help /timetable',
+  '/commands test': 'Test',
+  
 };
