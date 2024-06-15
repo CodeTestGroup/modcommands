@@ -9,7 +9,6 @@ const commands = {
   '/help': 'This command will be coming soon! Please do /commands for the list of avaliable commands!',
   '/timetable': 'This command will be coming soon! Please do /commands for the list of avaliable commands!',
   '/commands': 'Available commands: /welcome /report /ping /guidelines /game /homework /help /timetable',
-
   '/timetable': 'Please put the day and week number [a/b]. Example: /timetable-monday-a',
   '/timetable-monday-a': 'Timetable Monday Week: A Lessons: 1. Ilearn 2. English 3. PE 4. Sciecne 5. Geography 6. French',
   '/timetable-monday-b': 'Timetable Monday Week: B Lessons: 1. Ilearn 2. History 3. Sciece 4. English 5. French 6. PE',
@@ -21,6 +20,4 @@ const commands = {
   '/timetable-thursday-b': 'Timetable Thursday Week: B Lessons: 1. Ilearn 2. PE 3. Geography 4. Drama 5. Music 6. Math',
   '/timetable-friday-a': 'Timetable Friday Week: A Lessons: 1. Ilearn 2. Math 3. EP 4. Geography 5. PE 6. Geography',
   '/timetable-friday-b': 'Timetable Friday Week: B Lessons: 1. Ilearn 2. Math 3. Art 4. Music 5. English 6. Science',
-
-  
 };
